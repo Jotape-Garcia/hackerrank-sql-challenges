@@ -1,3 +1,4 @@
+
 /*
     Exercise Link: https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true
 
