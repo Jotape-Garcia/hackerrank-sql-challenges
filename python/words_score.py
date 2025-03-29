@@ -18,9 +18,8 @@
     The input is read by the provided locked code template. In the first line, there is a single integer 
     n denoting the number of words. In the second line, there are  space-separated lowercase words.
 
-    Constraints
-
     Each word has at most  letters and all letters are English lowercase letters
+    
     Output Format
 
     The output is produced by the provided and locked code template. It calls function score_words with the 
