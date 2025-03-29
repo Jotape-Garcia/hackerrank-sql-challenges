@@ -1,5 +1,7 @@
 
 """
+    Exercise Link: https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true
+
     You are given a string S.
     S contains alphanumeric characters only.
 
